@@ -49,3 +49,6 @@ add `.custom_bash_commands.sh` to your home  directory and `source ~/.custom_bas
   
 #### cchelp 
   - lists all custom bash commands.
+## Picture:
+  
+![alt text](https://github.com/BlueFalconHD/Useful-bash-commands/blob/main/Screenshot%202021-05-22%20174826.png Picture of commands)
