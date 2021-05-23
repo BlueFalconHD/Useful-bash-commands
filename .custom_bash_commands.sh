@@ -265,7 +265,7 @@ fi
 	
 };
 
-function reload() {
+function reload() { # Reloads bashrc and bash profile.
 	odir=$(pwd)
 	cd ~
 	source .bashrc
