@@ -19,23 +19,26 @@ add `.custom_bash_commands.sh` to your home  directory and `source ~/.custom_bas
 - clears screen.
 
 
-### readfile <file> 
+### readfile < file > 
   - displays contents of file argument.
   (using cat)
   
 ### dir 
   - prints all items in current folder/directory.
     
-### folder <name> 
+### folder < name > 
   - makes a folder in the current directory named the name argument.
   
   
-### file <name> 
+### file < name > 
   - creates file in current directory named the name argument.
   
   
-### filevim <name> 
+### filevim < name > 
   - creates file in current directory named the name argument then opens it in vim.
+ 
+### reload
+  - reloads bashrc and bash_profile. This allows you to restart after making changes to bashrc/bash_profile.
 ## Unimportant Commands
   
 #### coolcls 
